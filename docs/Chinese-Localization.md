@@ -4,7 +4,19 @@
 
 ## 快速开始
 
-### 1. 安装汉化包
+### 1. 下载汉化文件
+
+从本仓库的 [`extensions/`](https://github.com/chenhaolove89/aseprite-builder/tree/main/extensions) 目录下载以下文件：
+
+| 文件名 | 说明 | 适用平台 |
+|---|---|---|
+| [`hanhua-1.2.23.aseprite-extension`](https://github.com/chenhaolove89/aseprite-builder/raw/main/extensions/hanhua-1.2.23.aseprite-extension) | 简体中文语言包 | 全平台 |
+| [`zhuti-Win.aseprite-extension`](https://github.com/chenhaolove89/aseprite-builder/raw/main/extensions/zhuti-Win.aseprite-extension) | Windows 常规字体主题 | Windows |
+| [`zhuti-xiangsu.aseprite-extension`](https://github.com/chenhaolove89/aseprite-builder/raw/main/extensions/zhuti-xiangsu.aseprite-extension) | 像素字体主题（备用） | 全平台 |
+
+> 语言包版本对应 Aseprite v1.2.23，但通常兼容 v1.3.x 版本。
+
+### 2. 安装汉化包
 
 1. 打开 Aseprite
 2. 菜单栏选择 **编辑(Edit) > 首选项(Preferences)**（或按 `Ctrl+K`）
@@ -13,14 +25,14 @@
 5. 选择 `hanhua-1.2.23.aseprite-extension` 文件
 6. 重启 Aseprite
 
-### 2. 安装主题包（必须！否则中文显示为方框）
+### 3. 安装主题包（必须！否则中文显示为方框）
 
 1. 打开 Aseprite
 2. 菜单栏 **编辑 > 首选项 > 扩展**
 3. 点击 **添加扩展**，选择 `zhuti-Win.aseprite-extension`
 4. 重启 Aseprite
 
-### 3. 切换语言和主题
+### 4. 切换语言和主题
 
 1. 菜单栏 **编辑 > 首选项 > 常规(General)**
 2. **语言(Language)** 下拉框选择 **Simplified Chinese**
@@ -52,16 +64,6 @@
 - 确认下载的文件完整（未被浏览器拦截或损坏）
 - 尝试重新下载并安装
 - 如安装过旧版本，先在 **首选项 > 扩展** 中删除旧扩展再重新安装
-
-## 文件说明
-
-| 文件名 | 说明 | 适用平台 |
-|---|---|---|
-| `hanhua-1.2.23.aseprite-extension` | 简体中文语言包 | 全平台 |
-| `zhuti-Win.aseprite-extension` | Windows 常规字体主题 | Windows |
-| `zhuti-xiangsu.aseprite-extension` | 像素字体主题 | 全平台 |
-
-> 语言包版本对应 Aseprite v1.2.23，但通常兼容 v1.3.x 版本。
 
 ## 参考链接
 
