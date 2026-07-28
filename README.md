@@ -37,3 +37,12 @@ we need to remove the product in `Releases` .
 - 快速开始指南
 - 常见问题解决方案（如中文显示为方框/乱码）
 - 文件说明与版本兼容信息
+
+# Aseprite 学习指南
+
+如果你是像素画新手，推荐阅读 [`docs/Aseprite-Learning-Guide.md`](https://github.com/chenhaolove89/aseprite-builder/blob/main/docs/Aseprite-Learning-Guide.md)，内含：
+
+- Aseprite 基础操作与快捷键
+- 像素画核心知识（线条、明暗、抖动、调色板）
+- 临摹学习方法与推荐素材网站
+- 30天练习计划
