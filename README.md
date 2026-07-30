@@ -46,3 +46,21 @@ we need to remove the product in `Releases` .
 - 像素画核心知识（线条、明暗、抖动、调色板）
 - 临摹学习方法与推荐素材网站
 - 30天练习计划
+
+# 课程资料
+
+本仓库提供《Aseprite 像素画大师课：从零基础入门到专业像素美术师》的完整课程资料，共 **181 个文件**，涵盖像素画基础、透视、动画、游戏美术原型等主题。
+
+## 下载方式
+
+资料已分卷压缩存储在 [`course-materials/`](https://github.com/chenhaolove89/aseprite-builder/tree/main/course-materials) 目录，请下载全部 5 个分卷后合并解压。
+
+| 文件 | 大小 |
+|---|---|
+| [`course-materials/course-materials.zip.001`](https://github.com/chenhaolove89/aseprite-builder/raw/main/course-materials/course-materials.zip.001) | 25 MB |
+| [`course-materials/course-materials.zip.002`](https://github.com/chenhaolove89/aseprite-builder/raw/main/course-materials/course-materials.zip.002) | 25 MB |
+| [`course-materials/course-materials.zip.003`](https://github.com/chenhaolove89/aseprite-builder/raw/main/course-materials/course-materials.zip.003) | 25 MB |
+| [`course-materials/course-materials.zip.004`](https://github.com/chenhaolove89/aseprite-builder/raw/main/course-materials/course-materials.zip.004) | 25 MB |
+| [`course-materials/course-materials.zip.005`](https://github.com/chenhaolove89/aseprite-builder/raw/main/course-materials/course-materials.zip.005) | 5.05 MB |
+
+详细合并与解压方法请参阅 [`course-materials/README.md`](https://github.com/chenhaolove89/aseprite-builder/blob/main/course-materials/README.md)。
